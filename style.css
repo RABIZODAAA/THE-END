@@ -2638,4 +2638,83 @@
         height: 60px;
         font-size: 17px;
     }
+        .fofo18 {
+        width: 335px;
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+
+    .fofo19 {
+        font-size: 28px;
+        text-align: center;
+    }
+
+    .fofo20 {
+        margin-top: 30px;
+        flex-direction: column-reverse;
+        align-items: center;
+    }
+
+    .fofo21 {
+        width: 335px;
+    }
+
+    .fofo22 {
+        font-size: 16px;
+        text-align: center;
+    }
+
+    .fofo23 {
+        font-size: 14px;
+        text-align: center;
+    }
+
+    .fofo24 {
+        font-size: 14px;
+        text-align: center;
+    }
+
+    .fofo25 {
+        width: 335px;
+        height: 50px;
+        margin-top: 25px;
+        font-size: 16px;
+    }
+
+    .fofo26 {
+        width: 310px;
+        margin-bottom: 25px;
+    }
+
+    .fofo27 {
+        margin-top: 40px;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .fofo28 {
+        width: 300px;
+        margin-bottom: 25px;
+    }
+
+    .fofo29 {
+        width: 335px;
+    }
+
+    .fofo30 {
+        font-size: 16px;
+        text-align: center;
+    }
+
+    .fofo31 {
+        font-size: 14px;
+        text-align: center;
+    }
+
+    .fofo32 {
+        width: 335px;
+        height: 50px;
+        margin-top: 25px;
+        font-size: 16px;
+    }
 }
