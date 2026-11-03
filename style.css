@@ -2544,3 +2544,98 @@
     color: white;
     font-size: 9px;
 }
+.fofo356 {
+    display: none;
+}
+.fofo358 {
+    display: none;
+}
+@media (max-width: 500px) {
+    .fofo1 {
+        height: 700px;
+    }
+
+    .fofo2 {
+        height: 700px;
+    }
+
+    .fofo3 {
+        width: 335px;
+        top: 15px;
+    }
+
+    .fofo4 {
+        font-size: 20px;
+    }
+
+    .fofo6 {
+        display: none;
+    }
+
+    .fofo11 {
+        width: 100px;
+        height: 45px;
+        margin-left: auto;
+        font-size: 15px;
+    }
+
+    .fofo356 {
+        width: 45px;
+        height: 45px;
+        margin-left: 12px;
+        display: block;
+    }
+
+    .fofo12 {
+        width: 335px;
+        top: 175px;
+        text-align: center;
+    }
+
+    .fofo13 {
+        margin-bottom: 14px;
+        font-size: 30px;
+    }
+
+    .fofo14 {
+        margin-left: 0;
+        margin-bottom: 14px;
+        padding: 6px 10px;
+        display: inline;
+        font-size: 30px;
+    }
+
+    .fofo357 {
+        display: none;
+    }
+
+    .fofo15 {
+        font-size: 30px;
+    }
+
+    .fofo16 {
+        display: none;
+    }
+
+    .fofo358 {
+        margin-top: 30px;
+        margin-bottom: 30px;
+        display: block;
+        color: white;
+        font-size: 19px;
+    }
+
+    .fofo359 {
+        padding: 4px 10px;
+        display: inline-block;
+        background-color: white;
+        color: #06b090;
+        font-weight: 700;
+    }
+
+    .fofo17 {
+        width: 255px;
+        height: 60px;
+        font-size: 17px;
+    }
+}
