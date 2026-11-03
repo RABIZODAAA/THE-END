@@ -2550,22 +2550,22 @@
 .fofo358 {
     display: none;
 }
-@media (max-width: 500px) {
+@media (max-width: 600px) {
     .fofo1 {
-        height: 700px;
+        height: 750px;
     }
 
     .fofo2 {
-        height: 700px;
+        height: 750px;
     }
 
     .fofo3 {
-        width: 335px;
-        top: 15px;
+        width: 93%;
+        top: 12px;
     }
 
     .fofo4 {
-        font-size: 20px;
+        font-size: 18px;
     }
 
     .fofo6 {
@@ -2573,44 +2573,41 @@
     }
 
     .fofo11 {
-        width: 100px;
-        height: 45px;
+        width: 96px;
+        height: 43px;
         margin-left: auto;
+        margin-right: 12px;
         font-size: 15px;
     }
 
     .fofo356 {
-        width: 45px;
-        height: 45px;
-        margin-left: 12px;
+        width: 43px;
+        height: 43px;
         display: block;
     }
 
     .fofo12 {
-        width: 335px;
-        top: 175px;
+        width: 90%;
+        top: 150px;
         text-align: center;
     }
 
     .fofo13 {
-        margin-bottom: 14px;
-        font-size: 30px;
+        font-size: 22px;
     }
 
     .fofo14 {
-        margin-left: 0;
-        margin-bottom: 14px;
-        padding: 6px 10px;
+        padding: 0 8px;
         display: inline;
-        font-size: 30px;
+        font-size: 22px;
     }
 
-    .fofo357 {
+    .fofo364 {
         display: none;
     }
 
     .fofo15 {
-        font-size: 30px;
+        font-size: 22px;
     }
 
     .fofo16 {
@@ -2618,34 +2615,37 @@
     }
 
     .fofo358 {
-        margin-top: 30px;
-        margin-bottom: 30px;
+        width: 240px;
+        margin: 40px auto 40px auto;
         display: block;
         color: white;
-        font-size: 19px;
+        font-size: 15px;
     }
 
     .fofo359 {
-        padding: 4px 10px;
-        display: inline-block;
+        padding: 4px 8px;
+        border-radius: 4px;
         background-color: white;
+        display: inline-block;
         color: #06b090;
-        font-weight: 700;
+        font-size: 15px;
     }
 
     .fofo17 {
-        width: 255px;
-        height: 60px;
-        font-size: 17px;
+        width: 260px;
+        height: 56px;
+        margin: 0 auto;
+        display:
     }
-        .fofo18 {
-        width: 335px;
+
+       .fofo18 {
+        width: 90%;
         padding-top: 40px;
         padding-bottom: 40px;
     }
 
     .fofo19 {
-        font-size: 28px;
+        font-size: 24px;
         text-align: center;
     }
 
@@ -2656,15 +2656,17 @@
     }
 
     .fofo21 {
-        width: 335px;
+        width: 100%;
     }
 
     .fofo22 {
+        margin-bottom: 15px;
         font-size: 16px;
         text-align: center;
     }
 
     .fofo23 {
+        margin-bottom: 12px;
         font-size: 14px;
         text-align: center;
     }
@@ -2675,33 +2677,34 @@
     }
 
     .fofo25 {
-        width: 335px;
+        width: 100%;
         height: 50px;
         margin-top: 25px;
         font-size: 16px;
     }
 
     .fofo26 {
-        width: 310px;
+        width: 80%;
         margin-bottom: 25px;
     }
 
     .fofo27 {
-        margin-top: 40px;
+        margin-top: 50px;
         flex-direction: column;
         align-items: center;
     }
 
     .fofo28 {
-        width: 300px;
+        width: 85%;
         margin-bottom: 25px;
     }
 
     .fofo29 {
-        width: 335px;
+        width: 100%;
     }
 
     .fofo30 {
+        margin-bottom: 15px;
         font-size: 16px;
         text-align: center;
     }
@@ -2712,9 +2715,405 @@
     }
 
     .fofo32 {
-        width: 335px;
+        width: 100%;
         height: 50px;
         margin-top: 25px;
         font-size: 16px;
     }
+        .fofo33 {
+        width: 90%;
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+
+    .fofo34 {
+        font-size: 24px;
+        text-align: center;
+    }
+
+    .fofo35 {
+        margin-top: 30px;
+        flex-direction: column;
+        gap: 20px;
+    }
+
+    .fofo36 {
+        width: 100%;
+        height: auto;
+        padding-bottom: 30px;
+    }
+
+    .fofo37 {
+        margin-top: 30px;
+        font-size: 64px;
+    }
+
+    .fofo38 {
+        margin-top: 20px;
+        font-size: 14px;
+    }
+
+    .fofo39 {
+        width: 85%;
+        margin-top: 15px;
+        font-size: 14px;
+        text-align: center;
+    }
+
+    .fofo40 {
+        width: 100%;
+        height: auto;
+        padding-bottom: 30px;
+    }
+
+    .fofo41 {
+        margin-top: 30px;
+        font-size: 64px;
+    }
+
+    .fofo42 {
+        margin-top: 20px;
+        font-size: 14px;
+    }
+
+    .fofo43 {
+        width: 85%;
+        margin-top: 15px;
+        font-size: 14px;
+        text-align: center;
+    }
+
+    .fofo44 {
+        width: 100%;
+        height: auto;
+        padding-bottom: 30px;
+    }
+
+    .fofo45 {
+        margin-top: 30px;
+        font-size: 64px;
+    }
+
+    .fofo46 {
+        margin-top: 20px;
+        font-size: 14px;
+    }
+
+    .fofo47 {
+        width: 85%;
+        margin-top: 15px;
+        font-size: 14px;
+        text-align: center;
+    }
+        .fofo48 {
+        height: 580px;
+    }
+
+    .fofo49 {
+        height: 580px;
+    }
+
+    .fofo50 {
+        width: 90%;
+        padding: 0;
+        top: 95px;
+        background-color: transparent;
+        font-size: 24px;
+    }
+
+    .fofo365 {
+        padding: 4px 8px;
+        background-color: #06b090;
+    }
+
+    .fofo51 {
+        width: 90%;
+        top: 310px;
+        font-size: 15px;
+    }
+
+    .fofo52 {
+        width: 90%;
+        height: 56px;
+        top: 425px;
+        background-color: #3a96d9;
+        font-size: 16px;
+    }
+        .fofo53 {
+        width: 90%;
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+
+    .fofo54 {
+        font-size: 24px;
+        text-align: center;
+    }
+
+    .fofo55 {
+        width: 100%;
+        height: 50px;
+        margin-top: 25px;
+    }
+
+    .fofo56 {
+        width: 25%;
+        height: 50px;
+        padding: 0 5px;
+        font-size: 11px;
+    }
+
+    .fofo57 {
+        width: 25%;
+        height: 50px;
+        padding: 0 5px;
+        font-size: 11px;
+    }
+
+    .fofo58 {
+        width: 25%;
+        height: 50px;
+        padding: 0 5px;
+        font-size: 11px;
+    }
+
+    .fofo59 {
+        width: 25%;
+        height: 50px;
+        padding: 0 5px;
+        font-size: 11px;
+    }
+
+    .fofo60 {
+        margin-top: 30px;
+        flex-direction: column;
+    }
+
+    .fofo61 {
+        width: 100%;
+    }
+
+    .fofo62 {
+        width: 100%;
+        left: 0;
+        top: 40px;
+    }
+
+    .fofo63 {
+        font-size: 18px;
+    }
+
+    .fofo64 {
+        margin-bottom: 20px;
+        font-size: 18px;
+    }
+
+    .fofo65 {
+        width: 100%;
+        margin-bottom: 25px;
+        font-size: 14px;
+    }
+
+    .fofo66 {
+        display: none;
+    }
+
+    .fofo67 {
+        margin-top: 0;
+    }
+
+    .fofo68 {
+        width: 44px;
+        height: 44px;
+    }
+
+    .fofo70 {
+        font-size: 13px;
+    }
+
+    .fofo71 {
+        font-size: 11px;
+    }
+
+    .fofo72 {
+        width: 100%;
+        margin-top: 30px;
+        justify-content: space-between;
+        gap: 14px;
+    }
+
+    .fofo73 {
+        width: 47%;
+        height: 130px;
+    }
+
+    .fofo74 {
+        font-size: 24px;
+    }
+
+    .fofo75 {
+        display: block;
+        font-size: 20px;
+    }
+
+    .fofo76 {
+        width: 80%;
+        font-size: 12px;
+        text-align: center;
+    }
+
+    .fofo77 {
+        width: 47%;
+        height: 130px;
+    }
+
+    .fofo78 {
+        font-size: 24px;
+    }
+
+    .fofo79 {
+        width: 80%;
+        font-size: 12px;
+        text-align: center;
+    }
+
+    .fofo80 {
+        width: 47%;
+        height: 130px;
+    }
+
+    .fofo81 {
+        font-size: 24px;
+    }
+
+    .fofo82 {
+        width: 80%;
+        font-size: 12px;
+        text-align: center;
+    }
+
+    .fofo83 {
+        width: 47%;
+        height: 130px;
+    }
+
+    .fofo85 {
+        width: 80%;
+        font-size: 12px;
+        text-align: center;
+    }
+
+    .fofo360 {
+        width: 100%;
+        height: 56px;
+        margin-top: 25px;
+        display: block;
+        border: none;
+        border-radius: 6px;
+        background-color: #3a96d9;
+        color: white;
+        font-size: 16px;
+    }
+        .fofo86 {
+        width: 90%;
+        padding-top: 40px;
+        padding-bottom: 30px;
+    }
+
+    .fofo87 {
+        font-size: 24px;
+        text-align: center;
+    }
+
+    .fofo88 {
+        margin-top: 15px;
+        margin-bottom: 30px;
+        font-size: 14px;
+        text-align: center;
+    }
+
+    .fofo89 {
+        flex-direction: column;
+        gap: 20px;
+    }
+
+    .fofo90 {
+        width: 100%;
+        height: 130px;
+        flex-direction: row;
+        justify-content: flex-start;
+    }
+
+    .fofo91 {
+        width: 60px;
+        margin-left: 25px;
+    }
+
+    .fofo92 {
+        margin-top: 0;
+        margin-left: 20px;
+        font-size: 14px;
+    }
+
+    .fofo93 {
+        width: 100%;
+        height: 130px;
+        flex-direction: row;
+        justify-content: flex-start;
+    }
+
+    .fofo94 {
+        width: 60px;
+        margin-left: 25px;
+    }
+
+    .fofo95 {
+        margin-top: 0;
+        margin-left: 20px;
+        font-size: 14px;
+    }
+
+    .fofo96 {
+        width: 100%;
+        height: 130px;
+        flex-direction: row;
+        justify-content: flex-start;
+    }
+
+    .fofo97 {
+        width: 60px;
+        margin-left: 25px;
+    }
+
+    .fofo98 {
+        margin-top: 0;
+        margin-left: 20px;
+        font-size: 14px;
+    }
+
+    .fofo99 {
+        width: 100%;
+        height: 170px;
+    }
+
+    .fofo100 {
+        margin-bottom: 20px;
+        font-size: 15px;
+    }
+
+    .fofo101 {
+        width: 60px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
 }
