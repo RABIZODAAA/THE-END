@@ -2550,21 +2550,28 @@
 .fofo358 {
     display: none;
 }
+.fofo366 {
+    display: none;
+}
+.fofo360 {
+    display: none;
+}
 @media (max-width: 600px) {
     .fofo1 {
-        height: 750px;
+        height: 745px;
     }
 
     .fofo2 {
-        height: 750px;
+        height: 745px;
     }
 
     .fofo3 {
-        width: 93%;
+        width: 340px;
         top: 12px;
     }
 
     .fofo4 {
+        margin-right: auto;
         font-size: 18px;
     }
 
@@ -2573,33 +2580,35 @@
     }
 
     .fofo11 {
-        width: 96px;
-        height: 43px;
-        margin-left: auto;
-        margin-right: 12px;
-        font-size: 15px;
+        width: 95px;
+        height: 40px;
+        margin-right: 10px;
+        font-size: 14px;
     }
 
     .fofo356 {
-        width: 43px;
-        height: 43px;
+        width: 40px;
+        height: 40px;
         display: block;
     }
 
     .fofo12 {
-        width: 90%;
-        top: 150px;
+        width: 340px;
+        top: 160px;
         text-align: center;
     }
 
     .fofo13 {
-        font-size: 22px;
+        margin-bottom: 10px;
+        font-size: 26px;
     }
 
     .fofo14 {
-        padding: 0 8px;
+        margin-left: 0;
+        margin-bottom: 0;
+        padding: 3px 10px;
         display: inline;
-        font-size: 22px;
+        font-size: 26px;
     }
 
     .fofo364 {
@@ -2607,7 +2616,8 @@
     }
 
     .fofo15 {
-        font-size: 22px;
+        margin-top: 10px;
+        font-size: 26px;
     }
 
     .fofo16 {
@@ -2615,38 +2625,40 @@
     }
 
     .fofo358 {
-        width: 240px;
-        margin: 40px auto 40px auto;
+        width: 280px;
+        margin: 25px auto 0 auto;
         display: block;
         color: white;
-        font-size: 15px;
+        font-size: 18px;
     }
 
     .fofo359 {
-        padding: 4px 8px;
-        border-radius: 4px;
+        padding: 3px 6px;
         background-color: white;
-        display: inline-block;
-        color: #06b090;
-        font-size: 15px;
+        color: #222222;
+        font-weight: 700;
     }
 
     .fofo17 {
-        width: 260px;
-        height: 56px;
-        margin: 0 auto;
-        display:
+        width: 250px;
+        height: 58px;
+        margin-top: 45px;
+        font-size: 16px;
     }
 
-       .fofo18 {
-        width: 90%;
+    .fofo19,
+    .fofo34,
+    .fofo188,
+    .fofo249,
+    .fofo290 {
+        font-size: 26px;
+        text-align: center;
+    }
+
+    .fofo18 {
+        width: 340px;
         padding-top: 40px;
         padding-bottom: 40px;
-    }
-
-    .fofo19 {
-        font-size: 24px;
-        text-align: center;
     }
 
     .fofo20 {
@@ -2656,36 +2668,32 @@
     }
 
     .fofo21 {
-        width: 100%;
+        width: 340px;
+        margin-top: 25px;
+        text-align: center;
     }
 
     .fofo22 {
-        margin-bottom: 15px;
         font-size: 16px;
-        text-align: center;
     }
 
     .fofo23 {
-        margin-bottom: 12px;
-        font-size: 14px;
-        text-align: center;
+        font-size: 15px;
     }
 
     .fofo24 {
-        font-size: 14px;
-        text-align: center;
+        font-size: 15px;
     }
 
     .fofo25 {
-        width: 100%;
-        height: 50px;
-        margin-top: 25px;
+        width: 340px;
+        height: 55px;
+        margin-top: 30px;
         font-size: 16px;
     }
 
     .fofo26 {
-        width: 80%;
-        margin-bottom: 25px;
+        width: 257px;
     }
 
     .fofo27 {
@@ -2695,192 +2703,131 @@
     }
 
     .fofo28 {
-        width: 85%;
-        margin-bottom: 25px;
+        width: 300px;
     }
 
     .fofo29 {
-        width: 100%;
+        width: 340px;
+        margin-top: 25px;
+        text-align: center;
     }
 
     .fofo30 {
-        margin-bottom: 15px;
         font-size: 16px;
-        text-align: center;
     }
 
     .fofo31 {
-        font-size: 14px;
-        text-align: center;
+        font-size: 15px;
     }
 
     .fofo32 {
-        width: 100%;
-        height: 50px;
-        margin-top: 25px;
+        width: 340px;
+        height: 55px;
         font-size: 16px;
     }
-        .fofo33 {
-        width: 90%;
+
+    .fofo33 {
+        width: 340px;
         padding-top: 40px;
         padding-bottom: 40px;
-    }
-
-    .fofo34 {
-        font-size: 24px;
-        text-align: center;
     }
 
     .fofo35 {
         margin-top: 30px;
         flex-direction: column;
-        gap: 20px;
+        align-items: center;
+        gap: 30px;
     }
 
-    .fofo36 {
-        width: 100%;
-        height: auto;
-        padding-bottom: 30px;
-    }
-
-    .fofo37 {
-        margin-top: 30px;
-        font-size: 64px;
-    }
-
-    .fofo38 {
-        margin-top: 20px;
-        font-size: 14px;
-    }
-
-    .fofo39 {
-        width: 85%;
-        margin-top: 15px;
-        font-size: 14px;
-        text-align: center;
-    }
-
-    .fofo40 {
-        width: 100%;
-        height: auto;
-        padding-bottom: 30px;
-    }
-
-    .fofo41 {
-        margin-top: 30px;
-        font-size: 64px;
-    }
-
-    .fofo42 {
-        margin-top: 20px;
-        font-size: 14px;
-    }
-
-    .fofo43 {
-        width: 85%;
-        margin-top: 15px;
-        font-size: 14px;
-        text-align: center;
-    }
-
+    .fofo36,
+    .fofo40,
     .fofo44 {
-        width: 100%;
+        width: 340px;
         height: auto;
         padding-bottom: 30px;
     }
 
+    .fofo37,
+    .fofo41,
     .fofo45 {
-        margin-top: 30px;
-        font-size: 64px;
+        margin-top: 25px;
+        font-size: 52px;
     }
 
+    .fofo38,
+    .fofo42,
     .fofo46 {
-        margin-top: 20px;
-        font-size: 14px;
+        margin-top: 15px;
+        font-size: 15px;
     }
 
+    .fofo39,
+    .fofo43,
     .fofo47 {
-        width: 85%;
+        width: 290px;
         margin-top: 15px;
         font-size: 14px;
-        text-align: center;
     }
-        .fofo48 {
-        height: 580px;
+
+    .fofo48 {
+        height: 640px;
     }
 
     .fofo49 {
-        height: 580px;
+        height: 640px;
     }
 
     .fofo50 {
-        width: 90%;
-        padding: 0;
-        top: 95px;
+        width: 290px;
+        padding-top: 0;
+        padding-bottom: 0;
+        top: 100px;
         background-color: transparent;
-        font-size: 24px;
+        font-size: 22px;
     }
 
     .fofo365 {
-        padding: 4px 8px;
+        padding: 2px 8px;
         background-color: #06b090;
     }
 
     .fofo51 {
-        width: 90%;
-        top: 310px;
-        font-size: 15px;
+        width: 340px;
+        top: 360px;
+        font-size: 16px;
     }
 
     .fofo52 {
-        width: 90%;
-        height: 56px;
-        top: 425px;
-        background-color: #3a96d9;
+        width: 300px;
+        height: 55px;
+        top: 470px;
         font-size: 16px;
     }
-        .fofo53 {
-        width: 90%;
-        padding-top: 40px;
-        padding-bottom: 40px;
+
+    .fofo53 {
+        width: 340px;
+        padding-top: 50px;
     }
 
     .fofo54 {
-        font-size: 24px;
+        width: 260px;
+        margin: 0 auto;
+        font-size: 26px;
         text-align: center;
     }
 
     .fofo55 {
-        width: 100%;
-        height: 50px;
-        margin-top: 25px;
+        width: 340px;
+        height: 60px;
+        margin-top: 30px;
     }
 
-    .fofo56 {
-        width: 25%;
-        height: 50px;
-        padding: 0 5px;
-        font-size: 11px;
-    }
-
-    .fofo57 {
-        width: 25%;
-        height: 50px;
-        padding: 0 5px;
-        font-size: 11px;
-    }
-
-    .fofo58 {
-        width: 25%;
-        height: 50px;
-        padding: 0 5px;
-        font-size: 11px;
-    }
-
+    .fofo56,
+    .fofo57,
+    .fofo58,
     .fofo59 {
-        width: 25%;
-        height: 50px;
-        padding: 0 5px;
+        width: 85px;
+        height: 60px;
         font-size: 11px;
     }
 
@@ -2890,13 +2837,13 @@
     }
 
     .fofo61 {
-        width: 100%;
+        width: 340px;
     }
 
     .fofo62 {
-        width: 100%;
-        left: 0;
-        top: 40px;
+        width: 250px;
+        top: 80px;
+        left: 90px;
     }
 
     .fofo63 {
@@ -2904,14 +2851,14 @@
     }
 
     .fofo64 {
-        margin-bottom: 20px;
+        margin-bottom: 15px;
         font-size: 18px;
     }
 
     .fofo65 {
-        width: 100%;
-        margin-bottom: 25px;
-        font-size: 14px;
+        width: 300px;
+        margin-bottom: 0;
+        font-size: 15px;
     }
 
     .fofo66 {
@@ -2919,12 +2866,16 @@
     }
 
     .fofo67 {
-        margin-top: 0;
+        margin-top: 25px;
     }
 
     .fofo68 {
-        width: 44px;
-        height: 44px;
+        width: 48px;
+        height: 48px;
+    }
+
+    .fofo69 {
+        margin-left: 12px;
     }
 
     .fofo70 {
@@ -2936,97 +2887,70 @@
     }
 
     .fofo72 {
-        width: 100%;
-        margin-top: 30px;
-        justify-content: space-between;
-        gap: 14px;
+        width: 340px;
+        margin-top: 40px;
+        gap: 15px;
     }
 
-    .fofo73 {
-        width: 47%;
-        height: 130px;
+    .fofo73,
+    .fofo77,
+    .fofo80,
+    .fofo83 {
+        width: 163px;
+        height: 140px;
     }
 
-    .fofo74 {
-        font-size: 24px;
+    .fofo74,
+    .fofo78,
+    .fofo81 {
+        font-size: 26px;
+        text-align: center;
     }
 
     .fofo75 {
         display: block;
-        font-size: 20px;
+        font-size: 16px;
     }
 
-    .fofo76 {
-        width: 80%;
-        font-size: 12px;
-        text-align: center;
-    }
-
-    .fofo77 {
-        width: 47%;
-        height: 130px;
-    }
-
-    .fofo78 {
-        font-size: 24px;
-    }
-
-    .fofo79 {
-        width: 80%;
-        font-size: 12px;
-        text-align: center;
-    }
-
-    .fofo80 {
-        width: 47%;
-        height: 130px;
-    }
-
-    .fofo81 {
-        font-size: 24px;
-    }
-
+    .fofo76,
+    .fofo79,
     .fofo82 {
-        width: 80%;
+        width: 120px;
         font-size: 12px;
         text-align: center;
-    }
-
-    .fofo83 {
-        width: 47%;
-        height: 130px;
     }
 
     .fofo85 {
-        width: 80%;
         font-size: 12px;
-        text-align: center;
     }
 
     .fofo360 {
-        width: 100%;
-        height: 56px;
-        margin-top: 25px;
-        display: block;
+        width: 340px;
+        height: 55px;
+        margin-top: 15px;
         border: none;
         border-radius: 6px;
-        background-color: #3a96d9;
+        display: block;
+        background-color: #1a8fd0;
         color: white;
         font-size: 16px;
     }
-        .fofo86 {
-        width: 90%;
-        padding-top: 40px;
-        padding-bottom: 30px;
+
+    .fofo86 {
+        width: 340px;
+        padding-top: 50px;
+        padding-bottom: 40px;
     }
 
     .fofo87 {
-        font-size: 24px;
+        width: 250px;
+        margin: 0 auto;
+        font-size: 26px;
         text-align: center;
     }
 
     .fofo88 {
-        margin-top: 15px;
+        margin-top: 25px;
         margin-bottom: 30px;
         font-size: 14px;
         text-align: center;
@@ -3037,83 +2961,801 @@
         gap: 20px;
     }
 
-    .fofo90 {
-        width: 100%;
-        height: 130px;
-        flex-direction: row;
-        justify-content: flex-start;
-    }
-
-    .fofo91 {
-        width: 60px;
-        margin-left: 25px;
-    }
-
-    .fofo92 {
-        margin-top: 0;
-        margin-left: 20px;
-        font-size: 14px;
-    }
-
-    .fofo93 {
-        width: 100%;
-        height: 130px;
-        flex-direction: row;
-        justify-content: flex-start;
-    }
-
-    .fofo94 {
-        width: 60px;
-        margin-left: 25px;
-    }
-
-    .fofo95 {
-        margin-top: 0;
-        margin-left: 20px;
-        font-size: 14px;
-    }
-
+    .fofo90,
+    .fofo93,
     .fofo96 {
-        width: 100%;
-        height: 130px;
+        width: 310px;
+        height: 100px;
+        padding-left: 30px;
         flex-direction: row;
         justify-content: flex-start;
     }
 
-    .fofo97 {
-        width: 60px;
-        margin-left: 25px;
-    }
-
+    .fofo92,
+    .fofo95,
     .fofo98 {
         margin-top: 0;
-        margin-left: 20px;
-        font-size: 14px;
-    }
-
-    .fofo99 {
-        width: 100%;
-        height: 170px;
-    }
-
-    .fofo100 {
-        margin-bottom: 20px;
+        margin-left: 35px;
         font-size: 15px;
     }
 
-    .fofo101 {
-        width: 60px;
+    .fofo99 {
+        width: 340px;
+        height: 215px;
     }
 
+    .fofo100 {
+        width: 220px;
+        margin-bottom: 25px;
+        font-size: 18px;
+        text-align: center;
+    }
 
+    .fofo101 {
+        width: 64px;
+    }
 
+    .fofo102 {
+        width: 340px;
+        padding-top: 50px;
+        padding-bottom: 40px;
+    }
 
+    .fofo103 {
+        width: 200px;
+        margin: 0 auto 30px auto;
+        font-size: 26px;
+        text-align: center;
+    }
 
+    .fofo104 {
+        margin-bottom: 20px;
+    }
 
+    .fofo105 {
+        height: auto;
+        padding: 20px 15px;
+        flex-direction: column;
+        justify-content: center;
+        gap: 12px;
+    }
 
+    .fofo106 {
+        font-size: 14px;
+        text-align: center;
+    }
 
+    .fofo107 {
+        font-size: 14px;
+    }
 
+    .fofo366 {
+        display: inline;
+        color: #555555;
+        font-size: 14px;
+    }
 
+    .fofo367 {
+        margin-top: 8px;
+        display: block;
+        font-size: 14px;
+        font-weight: 700;
+    }
 
+    .fofo108 {
+        width: 30px;
+    }
 
+    .fofo109,
+    .fofo110,
+    .fofo111,
+    .fofo112 {
+        padding: 20px 15px;
+        font-size: 12px;
+    }
+
+    .fofo113,
+    .fofo117,
+    .fofo121,
+    .fofo125,
+    .fofo129,
+    .fofo133,
+    .fofo137,
+    .fofo141 {
+        width: 280px;
+        height: auto;
+        margin-bottom: 20px;
+        padding: 20px 30px;
+        flex-direction: column;
+        justify-content: center;
+        gap: 12px;
+    }
+
+    .fofo114,
+    .fofo118,
+    .fofo122,
+    .fofo126,
+    .fofo130,
+    .fofo134,
+    .fofo138,
+    .fofo142 {
+        font-size: 14px;
+        text-align: center;
+    }
+
+    .fofo115,
+    .fofo119,
+    .fofo123,
+    .fofo127,
+    .fofo131,
+    .fofo135,
+    .fofo139,
+    .fofo143 {
+        margin-right: 0;
+        margin-bottom: 8px;
+        display: block;
+        font-size: 14px;
+    }
+
+    .fofo116,
+    .fofo120,
+    .fofo124,
+    .fofo128,
+    .fofo132,
+    .fofo136,
+    .fofo140,
+    .fofo144 {
+        width: 30px;
+    }
+
+    .fofo145 {
+        width: 280px;
+        height: auto;
+        margin-bottom: 0;
+        padding: 20px 30px;
+        flex-direction: column;
+        justify-content: center;
+        gap: 12px;
+    }
+
+    .fofo146 {
+        font-size: 14px;
+    }
+
+    .fofo361 {
+        width: 30px;
+    }
+
+    .fofo148 {
+        height: auto;
+        padding-top: 60px;
+        padding-bottom: 60px;
+        flex-direction: column;
+        justify-content: flex-start;
+        align-items: center;
+    }
+
+    .fofo149 {
+        width: 340px;
+        text-align: center;
+    }
+
+    .fofo150 {
+        width: 340px;
+        margin-bottom: 20px;
+        font-size: 22px;
+    }
+
+    .fofo151 {
+        width: 340px;
+        margin-bottom: 30px;
+        font-size: 13px;
+    }
+
+    .fofo152 {
+        width: 340px;
+        height: 55px;
+        font-size: 16px;
+    }
+
+    .fofo153 {
+        width: 340px;
+        margin-top: 30px;
+        gap: 15px;
+        align-items: center;
+    }
+
+    .fofo154,
+    .fofo155,
+    .fofo156,
+    .fofo157,
+    .fofo158,
+    .fofo159 {
+        width: 100px;
+        padding: 15px 31px;
+    }
+
+    .fofo160 {
+        width: 340px;
+        padding-top: 50px;
+        padding-bottom: 40px;
+    }
+
+    .fofo161 {
+        width: 250px;
+        margin: 0 auto;
+        font-size: 26px;
+        text-align: center;
+    }
+
+    .fofo162 {
+        width: 340px;
+        margin-top: 30px;
+        flex-direction: column;
+        flex-wrap: nowrap;
+        align-items: center;
+        gap: 25px;
+    }
+
+    .fofo163,
+    .fofo167,
+    .fofo171,
+    .fofo175,
+    .fofo179,
+    .fofo183 {
+        width: 340px;
+        height: auto;
+        padding-bottom: 30px;
+    }
+
+    .fofo164,
+    .fofo168,
+    .fofo172,
+    .fofo176,
+    .fofo180,
+    .fofo184 {
+        margin-top: 25px;
+        font-size: 52px;
+    }
+
+    .fofo165,
+    .fofo169,
+    .fofo173,
+    .fofo177,
+    .fofo181,
+    .fofo185 {
+        margin-top: 15px;
+        font-size: 15px;
+    }
+
+    .fofo166,
+    .fofo170,
+    .fofo174,
+    .fofo178,
+    .fofo182,
+    .fofo186 {
+        width: 290px;
+        margin-top: 15px;
+        font-size: 14px;
+    }
+
+    .fofo187 {
+        width: 340px;
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+
+    .fofo189 {
+        margin-top: 30px;
+        flex-direction: column;
+        align-items: center;
+        gap: 25px;
+    }
+
+    .fofo190,
+    .fofo209,
+    .fofo229 {
+        width: 340px;
+        position: relative;
+        padding-bottom: 30px;
+    }
+
+    .fofo191,
+    .fofo210,
+    .fofo230 {
+        width: 60px;
+        margin: 0;
+        position: absolute;
+        top: 28px;
+        left: 25px;
+    }
+
+    .fofo192,
+    .fofo211,
+    .fofo231 {
+        width: 215px;
+        padding: 28px 20px 28px 105px;
+        font-size: 16px;
+        text-align: left;
+    }
+
+    .fofo193,
+    .fofo212,
+    .fofo232 {
+        margin-top: 25px;
+        margin-left: 25px;
+        font-size: 14px;
+    }
+
+    .fofo194,
+    .fofo195,
+    .fofo196,
+    .fofo197,
+    .fofo198,
+    .fofo213,
+    .fofo214,
+    .fofo215,
+    .fofo216,
+    .fofo217,
+    .fofo218,
+    .fofo233,
+    .fofo234,
+    .fofo235,
+    .fofo236,
+    .fofo237 {
+        margin-top: 15px;
+        font-size: 13px;
+    }
+
+    .fofo198,
+    .fofo218,
+    .fofo237 {
+        margin-bottom: 24px;
+    }
+
+    .fofo199,
+    .fofo202,
+    .fofo205,
+    .fofo219,
+    .fofo222,
+    .fofo225,
+    .fofo238,
+    .fofo241,
+    .fofo244 {
+        margin-top: 0;
+        padding: 18px 25px;
+        border-top: 1px solid #eeeeee;
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .fofo200,
+    .fofo203,
+    .fofo206,
+    .fofo220,
+    .fofo223,
+    .fofo226,
+    .fofo239,
+    .fofo242,
+    .fofo245 {
+        font-size: 13px;
+    }
+
+    .fofo201,
+    .fofo204,
+    .fofo221,
+    .fofo224,
+    .fofo240,
+    .fofo243 {
+        font-size: 12px;
+    }
+
+    .fofo207,
+    .fofo227,
+    .fofo246 {
+        font-size: 13px;
+    }
+
+    .fofo208,
+    .fofo228,
+    .fofo247 {
+        width: 290px;
+        height: 55px;
+        margin-top: 25px;
+        margin-left: 25px;
+        font-size: 16px;
+    }
+
+    .fofo248 {
+        width: 340px;
+        padding-top: 40px;
+        padding-bottom: 20px;
+    }
+
+    .fofo250 {
+        margin-top: 30px;
+        flex-direction: column;
+        gap: 30px;
+    }
+
+    .fofo251 {
+        width: 340px;
+    }
+
+    .fofo252 {
+        width: 340px;
+    }
+
+    .fofo253 {
+        margin-bottom: 20px;
+        font-size: 14px;
+    }
+
+    .fofo254 {
+        font-size: 14px;
+    }
+
+    .fofo255 {
+        font-size: 14px;
+    }
+
+    .fofo256 {
+        width: 340px;
+        padding-top: 20px;
+        padding-bottom: 40px;
+    }
+
+    .fofo257 {
+        width: 290px;
+        height: auto;
+        padding: 30px 25px;
+        position: relative;
+        flex-direction: column-reverse;
+        align-items: flex-start;
+    }
+
+    .fofo258 {
+        width: 190px;
+        height: 200px;
+        margin-top: 30px;
+        margin-left: 0;
+    }
+
+    .fofo259 {
+        width: 290px;
+        margin-left: 0;
+    }
+
+    .fofo260 {
+        margin-bottom: 0;
+        font-size: 13px;
+    }
+
+    .fofo261 {
+        position: absolute;
+        right: 25px;
+        bottom: 170px;
+        font-size: 12px;
+    }
+
+    .fofo262 {
+        width: 90px;
+        position: absolute;
+        right: 25px;
+        bottom: 120px;
+        font-size: 11px;
+    }
+
+    .fofo263 {
+        width: 340px;
+        margin-top: 40px;
+    }
+
+    .fofo264,
+    .fofo265,
+    .fofo266 {
+        width: 105px;
+        height: 90px;
+    }
+
+    .fofo267,
+    .fofo268 {
+        display: none;
+    }
+
+    .fofo269 {
+        width: 340px;
+        padding-top: 20px;
+        padding-bottom: 40px;
+    }
+
+    .fofo270 {
+        width: 300px;
+        margin: 0 auto;
+        font-size: 26px;
+        text-align: center;
+    }
+
+    .fofo271 {
+        width: 340px;
+        margin-top: 30px;
+        flex-wrap: wrap;
+    }
+
+    .fofo272,
+    .fofo289 {
+        display: none;
+    }
+
+    .fofo273,
+    .fofo277 {
+        width: 160px;
+    }
+
+    .fofo281,
+    .fofo285 {
+        display: none;
+    }
+
+    .fofo275,
+    .fofo279 {
+        font-size: 14px;
+    }
+
+    .fofo276,
+    .fofo280 {
+        width: 150px;
+        font-size: 12px;
+    }
+
+    .fofo368 {
+        width: 55px;
+        margin-top: 25px;
+        order: 10;
+    }
+
+    .fofo369 {
+        width: 55px;
+        margin-top: 25px;
+        order: 11;
+    }
+
+    .fofo291 {
+        margin-top: 25px;
+        align-items: center;
+    }
+
+    .fofo292,
+    .fofo293,
+    .fofo294,
+    .fofo295,
+    .fofo296,
+    .fofo297,
+    .fofo298,
+    .fofo299 {
+        width: 123px;
+        padding: 18px 20px;
+    }
+
+    .fofo300 {
+        height: 390px;
+    }
+
+    .fofo301 {
+        height: 390px;
+    }
+
+    .fofo302 {
+        width: 280px;
+        top: 50px;
+        font-size: 22px;
+    }
+
+    .fofo303 {
+        width: 330px;
+        top: 210px;
+        font-size: 12px;
+    }
+
+    .fofo304 {
+        width: 340px;
+        height: 55px;
+        top: 290px;
+        font-size: 15px;
+    }
+
+    .fofo305 {
+        width: 340px;
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+
+    .fofo306 {
+        font-size: 24px;
+        text-align: center;
+    }
+
+    .fofo307 {
+        margin-top: 30px;
+        flex-direction: column;
+        gap: 20px;
+    }
+
+    .fofo308,
+    .fofo313,
+    .fofo318 {
+        width: 340px;
+        height: 150px;
+        position: relative;
+    }
+
+    .fofo309,
+    .fofo314,
+    .fofo319 {
+        width: 95px;
+        height: 150px;
+        border-radius: 6px 0 0 6px;
+        position: absolute;
+        top: 0;
+        left: 0;
+    }
+
+    .fofo310,
+    .fofo315,
+    .fofo320 {
+        width: 205px;
+        margin-top: 18px;
+        margin-left: 112px;
+        font-size: 13px;
+    }
+
+    .fofo311,
+    .fofo316,
+    .fofo321 {
+        width: 205px;
+        margin-top: 8px;
+        margin-left: 112px;
+        font-size: 11px;
+    }
+
+    .fofo312,
+    .fofo317,
+    .fofo322 {
+        margin-top: 12px;
+        margin-left: 112px;
+        font-size: 10px;
+    }
+
+    .fofo323 {
+        height: 720px;
+        flex-direction: column;
+        justify-content: flex-start;
+        align-items: center;
+    }
+
+    .fofo324 {
+        height: 720px;
+    }
+
+    .fofo325 {
+        width: 340px;
+        height: auto;
+        margin-top: 60px;
+        margin-right: 0;
+        justify-content: center;
+    }
+
+    .fofo326 {
+        font-size: 26px;
+        text-align: center;
+    }
+
+    .fofo327 {
+        margin-top: 20px;
+        font-size: 14px;
+        text-align: center;
+    }
+
+    .fofo328 {
+        margin-top: 40px;
+        font-size: 16px;
+        font-weight: 700;
+        text-align: center;
+    }
+
+    .fofo329,
+    .fofo332 {
+        margin: 25px 35px 0 35px;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .fofo330,
+    .fofo333 {
+        width: 46px;
+        height: 46px;
+    }
+
+    .fofo331,
+    .fofo334 {
+        margin-top: 10px;
+        margin-left: 0;
+        font-size: 14px;
+    }
+
+    .fofo335 {
+        width: 290px;
+        height: auto;
+        margin-top: 35px;
+        padding: 25px;
+    }
+
+    .fofo336,
+    .fofo337 {
+        width: 290px;
+        height: 50px;
+        font-size: 14px;
+    }
+
+    .fofo338 {
+        width: 290px;
+        height: 50px;
+    }
+
+    .fofo339 {
+        width: 24px;
+    }
+
+    .fofo340 {
+        width: 250px;
+        height: 48px;
+        font-size: 14px;
+    }
+
+    .fofo341 {
+        width: 290px;
+        height: 55px;
+        margin-top: 25px;
+        font-size: 16px;
+    }
+
+    .fofo342 {
+        height: 100px;
+        justify-content: space-between;
+    }
+
+    .fofo343 {
+        height: 100px;
+    }
+
+    .fofo344 {
+        width: 150px;
+        margin-left: 17px;
+    }
+
+    .fofo345 {
+        font-size: 20px;
+    }
+
+    .fofo347 {
+        font-size: 10px;
+    }
+
+    .fofo348 {
+        display: none;
+    }
+
+    .fofo353 {
+        width: 160px;
+        margin-right: 17px;
+        padding-left: 0;
+    }
+
+    .fofo354 {
+        font-size: 10px;
+    }
+
+    .fofo355 {
+        font-size: 10px;
+    }
 }
